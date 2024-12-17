@@ -15,7 +15,8 @@ docker run -itd --name mysql-db -p 3306:3306 mysql
 docker inspect <containerID>
 ````
 
-![image](https://github.com/user-attachments/assets/49147a3d-d764-4b53-a73b-5be1be2b8980)
+!![Screenshot (695)](https://github.com/user-attachments/assets/45c4610c-06f0-4ed1-9b5c-c7ffe4e9ad11)
+
 
 **Login to DB Container**
 ````
