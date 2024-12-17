@@ -11,13 +11,16 @@ docker run -itd --name apache-fe -p 80:80 apache
 ````
 #### Go to browser add public ip of instance you will see following UI
 
-![image](https://github.com/user-attachments/assets/d22298f1-ce24-4c8e-b918-05e2758a5f4b)
+![Screenshot (694)](https://github.com/user-attachments/assets/6b4ab6d2-d923-41b6-aca1-dbb77552fea4)
+
 
 #### Click on ***Enter to Student Application*** it will redirect you to backend page
  
-![image](https://github.com/user-attachments/assets/0be68578-184b-4e74-bf2a-7cedcfa76058)
+![Screenshot (696)](https://github.com/user-attachments/assets/ece35e24-6c39-42d9-bb8f-eade963757ae)
+
 
 #### Student Data is saved into Database
-![image](https://github.com/user-attachments/assets/1a9f90d1-042b-4fb1-88e9-337087768287)
+![Screenshot (697)](https://github.com/user-attachments/assets/2910cfd9-37ce-4ee3-9ebf-596aab1cf198)
+
 
 
